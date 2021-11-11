@@ -6,14 +6,14 @@ let airports = [{
   code: 'SFO'
   },
   {
-    location: [40.6413, -73.7781],
-    name: "John F. Kennedy International Airport",
-    code: 'JFK'
-  },
-  {
     location: [30.1975, -97.6664],
     name: "Austin-Bergstrom International Airport",
     code: 'AUS'
+  },
+  {
+    location: [40.6413, -73.7781],
+    name: "John F. Kennedy International Airport",
+    code: 'JFK'
   },
   {
     location: [43.6777, -79.6248],
